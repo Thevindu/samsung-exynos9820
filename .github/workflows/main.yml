@@ -45,7 +45,6 @@ jobs:
                 +sched_conservative      \
                 +sched_ondemand          \
                 +sched_powersave         \
-                +sched_userspace         \
                 +sched_intelliactive     \
                 +sched_interactive       \
                 +mass_storage
